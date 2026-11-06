@@ -4,9 +4,7 @@
 
 **交流群已达200人，已移除置顶邀请二维码。希望进群交流的朋友，请联系我（[CanNyCat17](https://github.com/CanNyCat17)），由我邀请进群。** 可通过[仓库Issue](https://github.com/CanNyCat17/rdk-x5-microduck/issues)或[地瓜社区原帖](https://forum.d-robotics.cc/t/topic/35728/1)联系。
 
-| 当前样机正面 | 当前样机背面 |
-|---|---|
-| ![当前样机正面](media/20261106/front.jpg) | ![当前样机背面](media/20261106/rear.jpg) |
+![RDK X5 Duck最新封面：航模电池方案验证成功](docs/images/duck-hero-20261106.png)
 
 **一套围绕RDK X5开发板展开的开源机器人案例：硬件采购、3D打印、装配接线、软件部署、仿真环境和实机调试，按复刻顺序完整公开。**
 

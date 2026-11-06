@@ -7,7 +7,7 @@
 
 ## 当前单电源样机
 
-[![单电源机载样机已能站立，行走供电升级中](docs/images/single-power-hero-20261030.png)](docs/CURRENT_PROTOTYPE.md)
+[![航模电池方案验证成功，行走稳定性验证中](docs/images/duck-hero-20261106.png)](docs/CURRENT_PROTOTYPE.md)
 
 当前实装为**背部竖放X5、其后方框架内单块电池、上部微雪小板、网口附近IMU**；通信已改用40PIN两路UART。正背面照片、供电升级和待验证事项见[当前样机](docs/CURRENT_PROTOTYPE.md)。
 

@@ -3,7 +3,7 @@
 > **2026-11-06更新：上一版2S航模电池＋5V UBEC供电方案验证成功。** 现等待新采购的Hub和线束，行走稳定性仍待验证；本次不更新行走视频。见[下一版硬件BOM](NEXT_HARDWARE_BOM.md)。下文旧日期的供电与到货说明保留为历史记录，以本条最新状态为准。
 
 
-[![当前单电源样机，已能站立，行走供电升级中](images/single-power-hero-20261030.png)](CURRENT_PROTOTYPE.md)
+[![当前单电源样机，已能站立，行走供电升级中](images/duck-hero-20261106.png)](CURRENT_PROTOTYPE.md)
 
 **当前实装已能站立。** 背部竖放X5、框架内单块电池、上部微雪小板；最新正背面照片和通信布局见[当前样机](CURRENT_PROTOTYPE.md)。此前双电池成功前进保留为历史对照。
 
