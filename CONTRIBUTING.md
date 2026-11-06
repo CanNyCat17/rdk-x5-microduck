@@ -8,7 +8,7 @@
 - **运行问题**：完整错误、重现命令或按钮、系统/Python/依赖版本、失败阶段与轮次。公开前去除凭据、设备序列号、内部地址和私人路径。
 - **机械改件**：基于哪版零件、尺寸照片、源文件/STEP、修改原因、材料与打印参数，明确仅CAD检查、已实装还是动态验证。
 
-从 [Issue模板](https://github.com/Xiaomiju-x/rdk-x5-microduck/issues/new/choose) 开始，或到 [地瓜社区](https://forum.d-robotics.cc/t/topic/35728/1) 交流。不要把照片背景中的个人信息或群聊一同上传。
+从 [Issue模板](https://github.com/CanNyCat17/rdk-x5-microduck/issues/new/choose) 开始，或到 [地瓜社区](https://forum.d-robotics.cc/t/topic/35728/1) 交流。不要把照片背景中的个人信息或群聊一同上传。
 
 ## 2. 软件贡献
 

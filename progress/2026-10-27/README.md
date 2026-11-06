@@ -25,4 +25,4 @@ R9实配 → 单电池带载与连续运行验证 → 线束整理 → 同配置
 
 地瓜社区同版教程：https://forum.d-robotics.cc/t/topic/35728/1
 
-固定运行/打印包仍为[v2026.10.27.1](https://github.com/Xiaomiju-x/rdk-x5-microduck/releases/tag/v2026.10.27.1)，本次不覆盖旧tag或将尚未实配的R9宣称为已验证打印基线。
+固定运行/打印包仍为[v2026.10.27.1](https://github.com/CanNyCat17/rdk-x5-microduck/releases/tag/v2026.10.27.1)，本次不覆盖旧tag或将尚未实配的R9宣称为已验证打印基线。

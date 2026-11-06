@@ -39,6 +39,6 @@
 
 本地结项入口另行索引这些文件并记录 SHA256。主办方含其他组内容的整份终稿、内部原始工作日志、内网配置、完整第三方资源与大体积游戏包没有混入本公开目录。已有本地交付文件和桌面快捷入口保持可用，本次不重新生成游戏或旧制造包。
 
-本次修改随默认分支保留；[固定主线 v2026.10.27.1](https://github.com/Xiaomiju-x/rdk-x5-microduck/releases/tag/v2026.10.27.1)不包含这次新增目录，请使用当前目录或本次提交的固定链接。
+本次修改随默认分支保留；[固定主线 v2026.10.27.1](https://github.com/CanNyCat17/rdk-x5-microduck/releases/tag/v2026.10.27.1)不包含这次新增目录，请使用当前目录或本次提交的固定链接。
 
-归档固定快照：[pumpkin-duck-closeout-20261030](https://github.com/Xiaomiju-x/rdk-x5-microduck/tree/pumpkin-duck-closeout-20261030/projects/pumpkin-duck)。该标签用于本副线资料留存，不是新的主线运行/制造 Release。
+归档固定快照：[pumpkin-duck-closeout-20261030](https://github.com/CanNyCat17/rdk-x5-microduck/tree/pumpkin-duck-closeout-20261030/projects/pumpkin-duck)。该标签用于本副线资料留存，不是新的主线运行/制造 Release。

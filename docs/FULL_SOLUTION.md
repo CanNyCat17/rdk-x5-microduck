@@ -1,5 +1,8 @@
 # RDK X5 Duck｜完整开源复刻手册
 
+> **2026-11-06更新：上一版2S航模电池＋5V UBEC供电方案验证成功。** 现等待新采购的Hub和线束，行走稳定性仍待验证；本次不更新行走视频。见[下一版硬件BOM](NEXT_HARDWARE_BOM.md)。下文旧日期的供电与到货说明保留为历史记录，以本条最新状态为准。
+
+
 > **最新进度｜2026-10-30：** 当前单5V电池样机已能正常供电、启动和站立，带载行走出现供电不足表现。已采购2S 1000mAh 45C电池、好盈5A UBEC（5.0V供X5）、分线/转接线及S10充电器，预计11月2～8日到货验证。[完整采购清单、新接线与后续安排](../progress/2026-10-30/README.md)。下文10月27日电源说明保留为历史；旧DC端子直供X5的接法禁止用于新2S电池，新方案尚未验收。
 
 **当前样机外观与进度：** [单电源正背面实拍](CURRENT_PROTOTYPE.md)，已能站立，行走供电升级中。下方标注10月27日的阅读基线与教程主体对应已发布版本；最新采购与路线以上方更新为准。
@@ -16,9 +19,9 @@
 >
 > 因此，本手册前面的搭建步骤对应已发布基线，后面的R9专章对应下一阶段。固定版本中仍是R8A文件，不把新方案的设计图写成已经完成的行走结果。
 
-- **GitHub项目主页：** https://github.com/Xiaomiju-x/rdk-x5-microduck
-- **推荐固定版本：** https://github.com/Xiaomiju-x/rdk-x5-microduck/releases/tag/v2026.10.27.1
-- **直接下载完整源码与资料ZIP：** https://github.com/Xiaomiju-x/rdk-x5-microduck/archive/refs/tags/v2026.10.27.1.zip
+- **GitHub项目主页：** https://github.com/CanNyCat17/rdk-x5-microduck
+- **推荐固定版本：** https://github.com/CanNyCat17/rdk-x5-microduck/releases/tag/v2026.10.27.1
+- **直接下载完整源码与资料ZIP：** https://github.com/CanNyCat17/rdk-x5-microduck/archive/refs/tags/v2026.10.27.1.zip
 - **地瓜社区同步版本：** https://forum.d-robotics.cc/t/topic/35728/1
 
 下载入口是GitHub的 **Source code (zip)**，其中包括教程、控制源码、模型、打印文件和媒体，不需要另外寻找同名自定义附件。按固定版本复刻，可以让两个人讨论的是同一组文件。
@@ -411,7 +414,7 @@ VCC供电电压与串口TX/RX逻辑电平是两个检查项。确认模块是TTL
 可以下载前面的固定ZIP并解压。使用Git时，在电脑或X5自己的工作目录执行：
 
 ```sh
-git clone --branch v2026.10.27.1 --depth 1 https://github.com/Xiaomiju-x/rdk-x5-microduck.git
+git clone --branch v2026.10.27.1 --depth 1 https://github.com/CanNyCat17/rdk-x5-microduck.git
 cd rdk-x5-microduck/software
 ```
 
@@ -1142,10 +1145,10 @@ V2机内集成与硬件同事继续协作，考虑X5 Module或专用底板、电
 
 ### 24.4 署名、许可和反馈
 
-在团队支持下，项目由 **CanNyCat（Xiaomiju-x）主导推进与实机集成**，覆盖方案复用、采购和打印协调、装配、控制与IMU联调、实物测试和资料开放。感谢Pollen Robotics、机械行者Robo / fanhao375及相关社区的设计、CAD和软件基础；陆吾方案为独立布局与平台参考。
+在团队支持下，项目由 **CanNyCat（GitHub：CanNyCat17）主导推进与实机集成**，覆盖方案复用、采购和打印协调、装配、控制与IMU联调、实物测试和资料开放。感谢Pollen Robotics、机械行者Robo / fanhao375及相关社区的设计、CAD和软件基础；陆吾方案为独立布局与平台参考。
 
 新增软件按Apache-2.0开放；FT衍生机械与相关几何图按CC BY-NC-SA 4.0保留上游条件，实拍媒体另按声明使用。这里的“开源方案”包括不同许可类别，不意味着所有机械资料都可无条件商用，商品板卡内部设计也不因此归本项目所有。完整说明见[NOTICE.md](../NOTICE.md)。
 
-欢迎分享复刻记录、运行问题和机械改件。最有帮助的信息是：使用的tag、硬件/结构版本、这一轮只改了什么、日志与完整现象。反馈入口：https://github.com/Xiaomiju-x/rdk-x5-microduck/issues/new/choose
+欢迎分享复刻记录、运行问题和机械改件。最有帮助的信息是：使用的tag、硬件/结构版本、这一轮只改了什么、日志与完整现象。反馈入口：https://github.com/CanNyCat17/rdk-x5-microduck/issues/new/choose
 
 本手册按复刻过程维护正文，历史进展保留在[BUILD_LOG](../BUILD_LOG.md)、[历史资料](../history/)和[地瓜社区原有楼层](https://forum.d-robotics.cc/t/topic/35728/1)。新读者可以从头做，已经装到一半的读者也能找到自己的下一步。

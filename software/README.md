@@ -2,7 +2,7 @@
 
 本次完整方案的推荐软件入口：单一 D 控制台、板端串口运行、400 帧相对轨迹、分段颈部角度、提前收颈、完整单轮与连续 2/3/5 轮、只读检查及托稳慢复位。
 
-建议从 [v2026.10.27.1 固定 Release](https://github.com/Xiaomiju-x/rdk-x5-microduck/releases/tag/v2026.10.27.1) 开始。首次复刻按 [FIRST_RUN](../docs/FIRST_RUN.md) 完成编号、站姿和 IMU 方向；完整安装命令在 [DEPLOYMENT](../DEPLOYMENT.md)。公开包标识为 `D_PUBLIC_CASE_20261027_R1`，用于区分新增诊断与兼容修订，不表示D动作基线发生变化。
+建议从 [v2026.10.27.1 固定 Release](https://github.com/CanNyCat17/rdk-x5-microduck/releases/tag/v2026.10.27.1) 开始。首次复刻按 [FIRST_RUN](../docs/FIRST_RUN.md) 完成编号、站姿和 IMU 方向；完整安装命令在 [DEPLOYMENT](../DEPLOYMENT.md)。公开包标识为 `D_PUBLIC_CASE_20261027_R1`，用于区分新增诊断与兼容修订，不表示D动作基线发生变化。
 
 **10 月 23 日实机成功的是当时的完整集成与参数。这里的便携运行包从该实现提取，已做离线轨迹、算法和串口目标包对照，未在发布过程中新增实机试跑。** 参数不是所有复刻机器通用的标定值。连续多轮功能已完成软件检查，连续稳定行走仍需实物验证。
 

@@ -32,7 +32,7 @@
 
 无硬件读者可从 [DEMO](DEPLOYMENT.md) 和 [仿真环境](SIMULATION.md)开始。
 
-固定Release：https://github.com/Xiaomiju-x/rdk-x5-microduck/releases/tag/v2026.10.27.1
+固定Release：https://github.com/CanNyCat17/rdk-x5-microduck/releases/tag/v2026.10.27.1
 
 ## Python 3.10兼容修订
 

@@ -196,4 +196,4 @@ python runtime.py restore --robot .local/robot.json --supported
 
 至少记录发布tag、结构/供电/装载照片、START备份、颈部参数、执行日志、悬空/落地、现场观察和完整视频。配置保留程序输入，视频补充实物跟随与站立表现。
 
-配置与日志位于software/.local。公开前删除凭据、设备序列号及私人网络信息。使用 [Issue模板](https://github.com/Xiaomiju-x/rdk-x5-microduck/issues/new/choose) 分享复刻记录，贡献方法见 [CONTRIBUTING](../CONTRIBUTING.md)。
+配置与日志位于software/.local。公开前删除凭据、设备序列号及私人网络信息。使用 [Issue模板](https://github.com/CanNyCat17/rdk-x5-microduck/issues/new/choose) 分享复刻记录，贡献方法见 [CONTRIBUTING](../CONTRIBUTING.md)。

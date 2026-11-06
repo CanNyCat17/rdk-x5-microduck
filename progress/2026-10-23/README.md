@@ -48,4 +48,4 @@ RDK X5机器鸭从“桌面外接控制链路”走到了“计算、驱动与�
 - **陆吾 XGO-Duck副线**：Arduino UNO Q独立平台已完成装配、15轴标定、站立和1秒/3秒短程前进的现场验证；实际距离未测，直线保持和转向继续验证。复用官方资料：[硬件](https://github.com/LuwuDynamics/xgoduck_hardware)、[Arduino运行框架](https://github.com/LuwuDynamics/xgoduck_runtime_arduino)、[RL框架](https://github.com/LuwuDynamics/xgoduck_rl)。不搬用其零位、ID或策略验收结果替代RDK验证。
 - **南瓜鸭副线**：主题打印件与装配图、数字瓜园和互动机构持续推进；Web/Godot/MuJoCo与UE5可玩版已有阶段交付，实物装配与互动联调尚需接续，数字场景不等于实体已完成全部功能。
 
-在团队支持下，由**CanNyCat（Xiaomiju-x）主导项目推进与实机集成**；机械、机器人框架及上游算法归属仍见[来源与许可](../../NOTICE.md)。
+在团队支持下，由**CanNyCat（GitHub：CanNyCat17）主导项目推进与实机集成**；机械、机器人框架及上游算法归属仍见[来源与许可](../../NOTICE.md)。
