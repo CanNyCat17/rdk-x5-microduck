@@ -1,8 +1,10 @@
 # RDK X5 Duck｜从零搭建一台机载机器鸭
 
-## 微信交流群 · Duck Together 机器鸭共建群
+## 微信交流群 · RDK Duck 二群
 
-**交流群已达200人，已移除置顶邀请二维码。希望进群交流的朋友，请联系我（[CanNyCat17](https://github.com/CanNyCat17)），由我邀请进群。** 可通过[仓库Issue](https://github.com/CanNyCat17/rdk-x5-microduck/issues)或[地瓜社区原帖](https://forum.d-robotics.cc/t/topic/35728/1)联系。
+**微信扫码加入 Duck Together 机器鸭共建群 2（二维码 11 月 26 日前有效）。** 如果扫不进去或二维码过期，也可以到[地瓜社区原帖](https://forum.d-robotics.cc/t/topic/35728/1)或[仓库 Issues](https://github.com/CanNyCat17/rdk-x5-microduck/issues)联系我（[CanNyCat17](https://github.com/CanNyCat17)）。
+
+<img src="docs/images/duck-wechat-group-2.png" alt="RDK Duck 二群微信入群二维码" width="320">
 
 ![RDK X5 Duck最新封面：航模电池方案验证成功](docs/images/duck-hero-20261106.png)
 
